@@ -1,8 +1,8 @@
 #SDK - IM + AppStore 集成指南
 
-## 一、SDK 简介
+## 一、IM-AppStore-SDK 简介
 
-SDK 是一个企业级 Android 开发套件，包含 **即时通讯（IM）** 和 **应用市场（AppStore）** 两大核心模块，所有功能封装在 `omm-lib` 中，第三方只需引入单个 AAR 即可快速集成完整能力。
+IM-AppStore-SDK 是一个企业级 Android 开发套件，包含 **即时通讯（IM）** 和 **应用市场（AppStore）** 两大核心模块，所有功能封装在 `omm-lib` 中，第三方只需引入单个 AAR 即可快速集成完整能力。
 
 ### 1.1 模块概览
 
